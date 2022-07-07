@@ -1,6 +1,7 @@
 # Practice_1kurs
 
 Задания по практике 1 курс
+
 ПО-9 Мисиюк А. С.
 
 ### [Задания/Wiki](https://github.com/11ALX11/Practice_1kurs/wiki)
